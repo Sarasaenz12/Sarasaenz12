@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Sara Sanchez</h1>
----
-# te cuento sobre mi:
+
+## 📌 Te cuento sobre mí:
 Soy estudiante de Ingeniería de Software en la Universidad Alexander von Humboldt, con experiencia práctica adquirida a través de períodos de prácticas profesionales que me han permitido aplicar mis conocimientos en entornos reales. Tengo un fuerte interés tanto en el desarrollo backend y la gestión de APIs, como en el frontend, lo que me permite desenvolverme como desarrollador Full Stack.. Mi stack principal incluye:  
 * 🐍 Backend: Python (actualmente profundizando mis conocimientos) 
 * ⚛️ Frontend: React, HTML, CSS, JavaScript 
