@@ -28,7 +28,6 @@ Proyecto colaborativo que permite la gestión completa de una veterinaria, desde
 
 ---
 # 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.shion.dev/api?username=Sarasaenz12&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sarasaenz12&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sarasaenz12&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
